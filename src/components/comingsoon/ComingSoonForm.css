@@ -1,0 +1,39 @@
+.coming-soon-form {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .coming-soon-form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .coming-soon-form input {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .coming-soon-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .coming-soon-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .coming-soon-form .message {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #28a745;
+  }
