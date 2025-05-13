@@ -25,7 +25,7 @@ const Footer = () => {
             </Link>
           </div>
           <div className="footer-link">
-            <Link to="https://www.instagram.com/codegridweb/">
+            <Link to="https://www.instagram.com/rizzbrand.site/">
               &#x2192; Chat
             </Link>
           </div>
