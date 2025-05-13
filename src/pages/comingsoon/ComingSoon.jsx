@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { ReactLenis } from "lenis/react";
 
-import "../SampleProject/SampleProject.css";
+import "../sampleproject/SampleProject.css";
 
 import Transition from "../../components/transition/Transition";
 
