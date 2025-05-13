@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./ComingSoonForm.css";
+import "..comingsoon/ComingSoonForm.css";
 
 const ComingSoonForm = () => {
   const [email, setEmail] = useState("");
